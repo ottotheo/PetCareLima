@@ -1,0 +1,8 @@
+{
+  "name": "Remix PetCare Lima",
+  "description": "Aplicación móvil y web para agendar citas veterinarias, consultar especialistas y gestionar el cuidado y salud de mascotas en Lima, Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
